@@ -8,7 +8,8 @@ import { Styled } from "theme-ui"
 export default function Bio() {
   return (
     <>
-      Follow my daily hijinks here & 
+      Follow my daily hijinks here &
+      <br />
       occasionally a serious subject like cancer. Fuck cancer.
     </>
   )
